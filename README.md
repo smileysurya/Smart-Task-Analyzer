@@ -2,14 +2,6 @@
 
 ### Intelligent Task Prioritization System (Django REST API + HTML/JavaScript Frontend)
 
----
-
-> ⚠ **Disclaimer: Assistance Acknowledgment**
-> Parts of this project were developed with structured guidance from **ChatGPT**, including documentation, explanation of errors, folder structure organization, and JSON sample generation.
-> All backend implementation, frontend coding, debugging, and integration were done manually by the project owner.
-
----
-
 ## 📌 **Overview**
 
 **Smart Task Analyzer** is an intelligent task ranking and recommendation system that identifies which task should be completed first—and explains why.
